@@ -1,0 +1,26 @@
+{
+  "name": "Steven Freeman",
+  "age": 62,
+  "address": {
+    "street": "Punoso Street",
+    "city": "Evulepim",
+    "state": "CT",
+    "zip": "14085"
+  },
+  "contact": {
+    "phone": "(672) 886-7519",
+    "servicePhone": "800261395"
+  },
+  "birthday": "1969-10-26T01:23:28.880Z",
+  "ip": "169.137.239.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Jidjuk podo afaga picdu alasima poj waznofdaz fuv adi lirev awe duzpiri. Hetkuro jelufgu izelec fobeef paiti tir ehkiw bus ba iraga sadgup pig bafeni va gek kev. Lugzil ekego ojenebel baicamus vulajow vufdut kanda ruluti iti lobpuv pal sekkikur zoggupoji okuju iw. Em nevejuhe ocacevog tarkoc zo ajmoz opopi liv ra ig aviso gad soro lali fi dufdot.",
+    "bio": "Kom papan me we nevevib ocigak caf timtufhaw riwa tamizut bogela seta vahmi tamsa igo isuvag weafeoti ka. Ifoumob ididatwi vunain zo et zukas gat cohabba vacamgip si vuemuah huc ri ciiz wod zo. Nukfasruh bofzaf ze rihmo voj ufezag gavzuj kuhaf tobcecgu ibmutid cicmecre pa vonutvu hoz ke."
+  },
+  "apiKey": "742d1d3d984f23e228e033510e8265d52aeb7e467917c0f2e1821e19fab02fb6",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
