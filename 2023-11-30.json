@@ -1,0 +1,26 @@
+{
+  "name": "Chase Simpson",
+  "age": 18,
+  "address": {
+    "street": "Jeto Key",
+    "city": "Lezzumuz",
+    "state": "RI",
+    "zip": "24624"
+  },
+  "contact": {
+    "phone": "(757) 579-5082",
+    "servicePhone": "800327774"
+  },
+  "birthday": "1991-03-02T11:06:41.800Z",
+  "ip": "143.186.18.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Ebowif jow liino abaso ane ticenep at jug lowvegvo he mewwoz ge wiswubap roes po ripuh ta. Ofigupla uc emo su go pe lowawmep ju sodudipo mefo jazefhuk jasudsep magij ometeke zaravutu caw. Nincadocu kuveg ne mofwa pi nac ba fer ruskici ajvoeb cide roke ijuc wo cigugvu uvavajar vajuc.",
+    "bio": "Dupa re supkuf mahodnil uddo ebjejev ekauhucek duhmem nelsic rirerse dibvo ri wib bonooco igi julci duipe. Di wu be bah jazle lirjip mioh loki micahi lul nulreh nuw tawmos gilhok fispagor. Fahja lodaf zuwnala tef duz ceg luempeh vadbivsi imivocpe du zidzobku jelalgud unaom kuatehe fekpi."
+  },
+  "apiKey": "1f5248935e87516974d7f3ab5a7249d08b38f1e7c613a2483bed44e7fc0a5708",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
