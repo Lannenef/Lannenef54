@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Wilkerson",
+  "age": 49,
+  "address": {
+    "street": "Hazes Ridge",
+    "city": "Daubotuc",
+    "state": "NY",
+    "zip": "27837"
+  },
+  "contact": {
+    "phone": "(750) 767-2599",
+    "servicePhone": "800849767"
+  },
+  "birthday": "1979-06-09T10:43:49.770Z",
+  "ip": "55.120.73.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki ged gahtag ijsukaju sobugoc verwokpet uhadiwe fezu juulewa gi rahu obusa seaw vutsu orazah humnez vuj eze. Fo vemar vejam uk zomaj kawmiras lumale ecariohe mekupvur pevihpub nuuwu lalfabu uraku ohi emmi su hounu ibniw. Vafercul ni uhupuk ci ek labagpo vi timjulsu wanini li sawofdud vigig lu vamer izheg. Lusgiz tezri pew bevto ise iso jirih vav mi miso ati vo.",
+    "bio": "Ned beam no zu dusu pa pumudot cehahvo oblis bizu mini et vi jeogo. Ni ev simko ojobugge tan vutdageso le li dor tuc ja pisiup ractin zib amorum. Dil do tiz iboholbi posig luz evhawzev wojkojec wehnef fovjel ohe acsudtep malru vugvuvam ap."
+  },
+  "apiKey": "e3a9804036c9fc55feffdd8b68b2fb0991d05241914aa9c59c8c03265f0d9b9b",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
