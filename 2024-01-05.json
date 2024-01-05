@@ -1,0 +1,26 @@
+{
+  "name": "Rodney Garrett",
+  "age": 36,
+  "address": {
+    "street": "Leweh Mill",
+    "city": "Midcobdi",
+    "state": "AZ",
+    "zip": "94080"
+  },
+  "contact": {
+    "phone": "(381) 296-9199",
+    "servicePhone": "800947868"
+  },
+  "birthday": "2001-05-01T17:35:09.900Z",
+  "ip": "239.241.53.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Gab foefikad reguhaka ipaaka van sin ab hep go ip buvbaco vir vesvokhul gawozi cav. Noutaaze gecwi ruekas basus ivjovo vi uv fej vosucos tidpi we rupasu. Rah wewlepi kun dabi uctel sivpizvo ufemi nimo wiapu da maesi hihjohu ek he ibelis zub.",
+    "bio": "Temruhled asnug wu no ra rifduzuv duozva icfof deg kof dofhu faci ubepe zob fob ubzarne. Na mikuiga bij boneg dibiw luimo piberuj vut uwduvto lusfo piwicur basooh fu tisuh. Jugarker kosivego da iwnozed jon samep kemfutjar dooviger velutauwe icehotus tenfuz cu fut."
+  },
+  "apiKey": "f5269ebabc66f6b14874597ba2f0ddbf96fc34c9e563b6e52a1fd369a61b1113",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
