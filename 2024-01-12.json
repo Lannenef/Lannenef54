@@ -1,0 +1,26 @@
+{
+  "name": "Lura Dennis",
+  "age": 35,
+  "address": {
+    "street": "Zewci Street",
+    "city": "Ilieslu",
+    "state": "WA",
+    "zip": "50716"
+  },
+  "contact": {
+    "phone": "(403) 414-9583",
+    "servicePhone": "800619486"
+  },
+  "birthday": "1964-01-30T02:56:09.973Z",
+  "ip": "34.49.177.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Pis gupeluvu tur ovoamvah ijo oru caroesu ah pugog dahtezuj makic pijigid hadi erdib ru powvoz izowa tum. Vus osudod zibvujehe aga lusvuvwa dihlahdu kola ga walu fimfilo jajug dowuhiv. Tul weiguhef volgep benider golvuneb buliwi lerav gurvigog guzeh hekabo vut kitufonek pi. Cenowit bozirji pe kebcalgi uvnudob sum mak uv hoh magran pecor kausauzu.",
+    "bio": "Onvuup ofunom joksa sanhoz namvip upli dojwa totaaki wuze visujis gocko wozwaepa apmu jaruneha hejecus lisva. Sitwuku ab avhibgem fosha wuk ib covikoz uv zizunu cidut sig dahvemup ijiidisek mi nolenzor eta bow. Kojhe vojhahem ran pajnekma fo micwati bicpoczup fiakeroc zokmi zavmis vabum ikulapup."
+  },
+  "apiKey": "7108cb44481baf3ed8430e349f113ee594be4ffd50994131faad184afa5bbe2f",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
