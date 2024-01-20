@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Lloyd",
+  "age": 39,
+  "address": {
+    "street": "Uvesa Point",
+    "city": "Lekuwfi",
+    "state": "RI",
+    "zip": "03748"
+  },
+  "contact": {
+    "phone": "(667) 956-8130",
+    "servicePhone": "800422898"
+  },
+  "birthday": "1959-07-23T09:26:11.080Z",
+  "ip": "113.187.28.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Duno goklul nijhenim waleru jeb anvezve de lov memna jorulhut adu onke. Ho al oj mebadjof ekivujo jad vokuge izapis van wiziceb bahovig imauti ok re od jihsaewa. Id ka ove tibvehi lez towat vurbuwak dit duh lip gup nosse. Za hukowo jo piduzi dih ignisza pa tukci fejfim uflefraf owunahfa nil.",
+    "bio": "Muf abfi ogmu mudhekpak re zucekmuk muw he dazmumar roda gahel otse wobovi lo gamda pilewvu. Gawo kopavbaf mamezaho wirre ragjokcog dihheg socfir ku he pe jaladfuv sej oko epvokke ommopma piaj. Wo otevuk dal fu edkef godvudu jos jec dujvuf pac jiw homaj rafaho ub keoj."
+  },
+  "apiKey": "0dc92dc4d384ac47d1b5645f6be15704b47bd2fcfd86824907ccbc777a3f422e",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
