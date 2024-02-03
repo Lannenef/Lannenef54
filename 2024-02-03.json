@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Swanson",
+  "age": 41,
+  "address": {
+    "street": "Rocfaw Parkway",
+    "city": "Rejibiagi",
+    "state": "GA",
+    "zip": "60427"
+  },
+  "contact": {
+    "phone": "(926) 202-3142",
+    "servicePhone": "800346959"
+  },
+  "birthday": "1986-10-03T14:31:05.403Z",
+  "ip": "242.15.215.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Poh etulec re fi sopiiz ge cubum kezvojdu esi cemar wohog weabu. Suopa vabhujne jeadica tagicovot sec ehoara kiw ceibe te eluseid el ah jeclerocu sihpi hehne ho demolsuw ucoasjo. Felweju nuwere vov ruc osoer cug bibbac cafjebib ji ligka vasip oc iduuh ici. Nitpo wo beupiso uvawi rum upzec vututu zokbe wusdanca ore tezipfop ja ropminru ulu de. Pegohcu mem he neuzusik dit ofecoz mulfu ta colvakfeh bi otusu wi kelittez ujabir vahmeof bog fo ibegero.",
+    "bio": "Cucpojum eppanu poj jigesueh jusigajon iwawic weogis dom kog wejej zofapu fuf. Tojasaz halhaoki camtec pu va lashepdib bi gofimpo nu vihneur bevawetar hi dihhifsu patodwul. Ame zaoreeke pimis mig di lula jubob bo zekcimto mactiz wemduit du fudaw ce mighu gephesri. Udiehezuk cimfo ecawuhaf irbok bisaz jejeane cu uvifudkov rozegi silijfa fuogowiv gesed bodinba hesrog ulo sujrir."
+  },
+  "apiKey": "46fc4b8dfea17fedeb28b706d06524b92f42ebd8d38a3c006741e9fe00d52874",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
