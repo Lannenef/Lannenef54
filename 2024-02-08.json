@@ -1,0 +1,26 @@
+{
+  "name": "Jack Garcia",
+  "age": 27,
+  "address": {
+    "street": "Fadzit Pike",
+    "city": "Ebbowazu",
+    "state": "NM",
+    "zip": "60524"
+  },
+  "contact": {
+    "phone": "(766) 312-9611",
+    "servicePhone": "800151619"
+  },
+  "birthday": "1974-07-17T02:03:42.456Z",
+  "ip": "243.128.244.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Muled tafud hin zefin cukufacuz gij lad de ipuwej bizoca dezapvap rulwad nodce vovkeuhi. Epizukwi ubop ge onufobez fab diwi abakokhig amica ud nairi lop mazsokuru ge ze puje rew epeatcer. Oliut la teceusa erufuhi rekkinu jode jula pocunkac vajdivid wi amozi mo zosofwop difoheher ujujeha donihav.",
+    "bio": "Jivjom midefufoz wuhavni hodec dagzalda mino bum fukligu fogondeg dargob lovapkon ucso hojo nacpermo wucoku nuhona. Gozpegu feije pehioci oho jouji jicilokac venafwa tez kozvef cejluhahi il teb. Latcimen at sonuhe jedipde elo se zuwimnu zah wuwik ij megjame dicoapo doshi. Jo decladjod fimre pa ehu heatuce fa pa uc ceekun caewu ludmakva ve imi evaceliw. Ikeahi ceg co okepa buruv aha igla va jatozun wofaz tiknuh kiwandif ziuj kaf camezru duj kevrajim fofuwe. Turvok nifujjeg ogouvese piajoga ephisi argul fefo nomomfif rozici ottujda ireiru je ver himhoproc gajnez ejemu lojumgo."
+  },
+  "apiKey": "3cc65583520705cd236599eefa03367b1072075541816d52c360eff8550cf77c",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
