@@ -1,0 +1,26 @@
+{
+  "name": "Erik Oliver",
+  "age": 49,
+  "address": {
+    "street": "Badem Heights",
+    "city": "Ecirfe",
+    "state": "MI",
+    "zip": "03664"
+  },
+  "contact": {
+    "phone": "(408) 788-6968",
+    "servicePhone": "800815517"
+  },
+  "birthday": "2005-09-10T17:12:15.625Z",
+  "ip": "152.15.196.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Ud hopnujbub rulha cosejgah woftevdod pil noce pes po pog navjad ze. Nanfecvon kum usibo si kubuf louz agohih kivjal papwugim emminse hakevugi zid dehjujlig lonze febestur. Bur vak kojporgol rijkuiz ceuze mipvu gebbet uzumaaz cu monib tumcefdeh te.",
+    "bio": "Uzapol nufezjo uso sukhav gallif dusupdik wuf use evsohofe ruc dofjagev nicatar maphev zeugafap ejizcag sedzadaf. Ceuv aki ti elo zuze uforo de hohisok ci laratfe benaf ofilupe poiho. Owojanad vuwimnab owpipa ferilsah eba zuz acutude rotulroz uci ul an kawa weplaki ajobo."
+  },
+  "apiKey": "a3aa1d553e359653b8137b32b296c0f3b1767b547e1119b36791bf253c624adc",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
