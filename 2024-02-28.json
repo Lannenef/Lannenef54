@@ -1,0 +1,26 @@
+{
+  "name": "Loretta Perez",
+  "age": 26,
+  "address": {
+    "street": "Bevet Ridge",
+    "city": "Wuncusgi",
+    "state": "OH",
+    "zip": "12703"
+  },
+  "contact": {
+    "phone": "(530) 842-5975",
+    "servicePhone": "800393287"
+  },
+  "birthday": "1975-10-10T03:42:36.035Z",
+  "ip": "31.216.174.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Si on aj war zub eduawanu aki litis sidpawop oz cuvhik zir derpug viis siig loboje osri. Ovulve ge sanatbik rowumi nibin lajbu awiofiz toibe kavogoj dupuh uce mojoja aci hojduj. Lotuw bar ib de getafuv gievrob sun wujsa jome ahe wafgo dahanibi ma jovelke. Bohjijtik cavi kal ur toletoeka or bierudim bu lejo upwa sodjajo pufbomo gomase fukunmi.",
+    "bio": "Omibi zioh ko atutpo hoonifek sotce dut hacihbuc bifaum dof jubi medah dawdotis neleza. Muvop ile gi bik so evaasa ga iper gevove dotwiisa salo im udtuci tih hehhu buza. Usgo bod coavolem bateon ka vafsi kapharoc mumlusot tek izahus obepi fanatmo hifwak lemep laptijaj ran nobado."
+  },
+  "apiKey": "41e2ac82e651b0a42a4608805056ea0ab8e33560b42f03fa2f1f8ff749509e9c",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
