@@ -1,0 +1,26 @@
+{
+  "name": "Mamie Gutierrez",
+  "age": 29,
+  "address": {
+    "street": "Jengi Heights",
+    "city": "Zutukrun",
+    "state": "MN",
+    "zip": "31726"
+  },
+  "contact": {
+    "phone": "(320) 721-3480",
+    "servicePhone": "800371339"
+  },
+  "birthday": "1975-09-07T11:07:02.012Z",
+  "ip": "132.85.102.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Fiz warfadu zef wardel ve kufikein dasec doevenu pe owuewe jiafete sotin uzapikos acuwapage. Giapu figo ciz ujre ewi ibivi wuufogi saofa ukalapit ad ni emeat. Karlob micabo kojiota ehugono bolrenez gurmav mab ta hazi azcuweg ce kufzul origidi. En leuvucoj ulmo egu lemeva uwilolse omgot omtolzuf acakusu ucatko ubnefla ukisceh ujenuf dallacjuc lohlanvac. Enurebo itiivku kungidow asadavok ze dibvo rovi gifgej tavota enipu ji wukippac torzom cobut zokna wupgiive goh nojec.",
+    "bio": "Uflijji buwuje ku elipe waf aflool papte fuwijgu eze zuje sonoga ze vuwguw wu henkazoc lew. Vaobo ke modgi zel sa sa jalno fewcu ud saf lika ba uvdem nu riewiro. Hozu mi fapage wakedu ocu mureh pit kuza ipu aknavka tu cuze vecvuve. Su romot kueg fukzonu iptu gicor cewut vib zu viv ceh migepe di mena sefar mow vilina. Taku sa mejira ehecipol peub kurkuec soz jowfom buwelcu buvafod eslabem gisa."
+  },
+  "apiKey": "cd5f5f89be3a1e91c2c9637cb62850d3febf9bfc40a3d571ac2b325953991aa8",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
