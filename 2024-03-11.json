@@ -1,0 +1,26 @@
+{
+  "name": "Brett Bennett",
+  "age": 23,
+  "address": {
+    "street": "Gego Road",
+    "city": "Giajda",
+    "state": "IL",
+    "zip": "58398"
+  },
+  "contact": {
+    "phone": "(822) 883-9220",
+    "servicePhone": "800463128"
+  },
+  "birthday": "2000-11-29T16:09:34.353Z",
+  "ip": "161.206.49.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Go hewcub fojlurju culse li hikhovhun wusupkiv tibeze wufiw du luc zelimu ke cudmi dijujfov eku. Pipuoho kinfa cusitu teb kut sagejas tudtownu sujfev bujevu feno hatce linfe noldoled avebu uzekenir tu guv pevug. Decpohwi efo nu ri zajinfew hif utu poja mapcamon tazuceewi vutpes adejave hobu du nackikles cifevig.",
+    "bio": "Jifovup kot cucicvog tathid nobvojeb bialsof bazefar oweta ewapki weupu zim hemug zeka esatiboci kihjozi. Vepvitgat wowjovo edijahgor disibkak cije dadizu pufparu daviec uflupok newe hasa ede. Eluha iwomcu zebobog zawvufmus ta ih kewnag zib akiub bem tep rat bek ohos oj henma zozhamulu."
+  },
+  "apiKey": "113e6e3dc034a762ade7e42fb45dbd66733f8c747a481c0a188815638ecfb4d7",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
