@@ -1,0 +1,26 @@
+{
+  "name": "Fred Ellis",
+  "age": 30,
+  "address": {
+    "street": "Imit Loop",
+    "city": "Zofozoru",
+    "state": "WI",
+    "zip": "32362"
+  },
+  "contact": {
+    "phone": "(505) 487-4483",
+    "servicePhone": "800913862"
+  },
+  "birthday": "1996-02-20T23:39:46.226Z",
+  "ip": "59.223.234.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Jeb gal maga cevad datawo eco tulikga iza pe zuol pulu se. Roum kazri tuzsisa af rijrotda negotuwe cishiddef ku seromi ratop laz duat tu ite. Uwurojol cowzas bobdaze jif igke arogis jen guhefar ocojupda feicka mazivav da og vogvumem vog. Tu isazud nivoso foimazaj ekona rakes ezidiora weutofen zaruwa is wit omhon fewijiden ucenedo koh kizba. Jozju vuef omepep fefuuka vek donkag wilbo fuvtadoc ma ivuozko kurukpo mal.",
+    "bio": "Tizdiare suvoma ebsolbiw gofed utaum jijamwu ucauv ebiigiram marulib peg fugbozkur gafaszak rakvofi afrecida sejkif pu gusvipca awoiwsen. Juz utkuznic correbu waj setaj ofniw zahlel logowed kocog fiprecba hiwah vamiv ujrasiw celo sepur lenow. Vorotezi ewavahbob fisnu gapa usma zik ojojele cil ma sivpaut gaf tocejwu vit ruvcajom bum pipeuva zic. Lolapo bulol dipgirza rusoru ra nib jisad ne rogge luwuc noc pirkej pazsulaze uti rari."
+  },
+  "apiKey": "ce68bb69895db014e176bd848f821285cc28a4bf41995752b9c899f3f3178a5c",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
