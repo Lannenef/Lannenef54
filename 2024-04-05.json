@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Bass",
+  "age": 50,
+  "address": {
+    "street": "Towa Heights",
+    "city": "Dimaboodo",
+    "state": "KY",
+    "zip": "06988"
+  },
+  "contact": {
+    "phone": "(240) 506-8133",
+    "servicePhone": "800486249"
+  },
+  "birthday": "1999-10-18T16:04:16.057Z",
+  "ip": "227.245.238.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Zaz hevkod terju sis mitu zelralun baca ipipativ duddohap de tu bamme. Vefezudo bessuwpu pobbeg kap ju ko igi tin ij vorar wam kagijsa. Zonetenan kadiala azrol edi ramu ocfuje faigo wicodana hohehsi gifohil olute pukbifat uweju be ado zegcerot obseju cunri. Guflod binavti hanacu co mejoove fusop pimon satbi lan cahoj pemin ocseksem. Humoc vorpuda nam fa tivzo obika lor vota buwabagi zakwitha joito modamse hagfe waar negle duc af amzevaj.",
+    "bio": "Ifumufki vog ivwisu tikev abbib ikaud pe ij cagijki tocmete fe get zazaus nuh il. Mar no defivka nuglewo hat uruofa rid ikojev zoihe je vim nahihvoz ifisez jeja keiboz. Kad witpulok mow opogovo mu wet kadovkup ludzaave omfot fetgap awlujri etilu koce. Tuce dan gotfo icozueg popisu avoho mutikej bono anasefu diwwipva imsois hibiwgad mafet ni. Nef ewudavsi cebidke os rumek gac opuednic voasafel po pi nehgumgeb ipauduif reih wuhane cavow cedakom wir."
+  },
+  "apiKey": "be5b3a58ab07af16af598b4e75fe79f9a01539119d1be97320ac7b50edebfe74",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
